@@ -1,0 +1,13 @@
+- 👋 Hi, I’m Steve
+- 👀 I’m interested in AI
+- 🌱 I’m currently studying machine learning (and all that comes with this huge field)
+- 🎓 Previously I completed postgraduate degrees in Computer Science at the University of Manchester and Speech and Lanaguage Processing at Edinburgh
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+woodcocs/woodcocs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
